@@ -15,11 +15,11 @@ import plotly.graph_objs as go
 
 
 def getKeys():
-    mapboxToken = 'pk.eyJ1IjoicGFsdmluZGVyc2FuZGVyIiwiYSI6ImNqanNsOWtjeTg1MzkzcHMycTc2Z25meGYifQ.XphirdAv5UefGIMDeaJrxg'
-    twitterCKey = '1b1mWMd7Up88sKceqF2d417hM'
-    twitterCSecret = 'ZLM7MwefJmrU30IzpqJFOFoTdGKfppTUN8nWLKDWWIbTetdzuH'
-    twitterAToken = '942144532233248769-Ox5l5MCIifUK5mhhFpyVAugrxPkHkN9'
-    twitterASecret = '9Ntpl7F8799RgGja9gSAkioiOoFzLsVVhAnYV0m0cZpO4'
+    mapboxToken = ''
+    twitterCKey = ''
+    twitterCSecret = ''
+    twitterAToken = ''
+    twitterASecret = ''
     keys = {'mapboxToken': mapboxToken,
             'twitterCKey': twitterCKey,
             'twitterCSecret': twitterCSecret,
